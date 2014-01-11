@@ -1,7 +1,7 @@
 Redis.AspNet.Identity
 =====================
 
-ASP.NET Identity provider that uses Redis for storage
+ASP.NET Identity provider that uses Redis for storage and works with VS2013 Default SPA Template
 
 ## Purpose ##
 
