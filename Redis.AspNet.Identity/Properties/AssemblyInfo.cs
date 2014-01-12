@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription("ASP.NET Identity provider that uses Redis for storage.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("aminjam")]
-[assembly: AssemblyProduct("AspNet.Identity.Redis")]
+[assembly: AssemblyProduct("Redis.AspNet.Identity")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("0.0.0.2")]
-[assembly: AssemblyFileVersion("0.0.0.2")]
+[assembly: AssemblyVersion("0.0.0.3")]
+[assembly: AssemblyFileVersion("0.0.0.3")]

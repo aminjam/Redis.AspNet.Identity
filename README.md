@@ -42,6 +42,7 @@ Install-Package Redis.AspNet.Identity
     * Add the namespace: Redis.AspNet.Identity
 	
 4. In ~/App_Start/Startup.Auth.cs
+	* Replace "IdentityUserLogin" with "UserLoginInfo"
     * Remove the namespace: Microsoft.AspNet.Identity.EntityFramework
     * Add the new RedisClient with proper Connection String to the constructor of the UserStore.
 

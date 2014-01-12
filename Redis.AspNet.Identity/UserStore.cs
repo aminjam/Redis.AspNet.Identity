@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace AspNet.Identity.Redis
+namespace Redis.AspNet.Identity
 {
     public enum Keys
     {
